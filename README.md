@@ -1,2 +1,2 @@
 # programming-exercises
-exercises programming language fom https://wiki.python.org.br/ListaDeExercicios
+exercises programming language from https://wiki.python.org.br/ListaDeExercicios
