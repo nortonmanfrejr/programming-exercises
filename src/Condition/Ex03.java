@@ -4,7 +4,7 @@ import Tools.GeneralT;
 
 import java.util.Scanner;
 
-public class Ex3 {
+public class Ex03 {
 
     static Scanner sc = new Scanner(System.in);
     static String Woman = "F", Man = "M";

@@ -1,13 +1,12 @@
 package Condition;
 
 import Tools.GeneralT;
-import Tools.StrT;
 
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.Scanner;
 
-public class Ex8 {
+public class Ex08 {
 
     static Scanner sc = new Scanner(System.in);
     static int Length = 3;

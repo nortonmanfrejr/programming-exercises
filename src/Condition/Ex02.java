@@ -4,7 +4,7 @@ import Tools.GeneralT;
 
 import java.util.Scanner;
 
-public class Ex2 {
+public class Ex02 {
 
     static Scanner sc = new Scanner(System.in);
     static int Number;

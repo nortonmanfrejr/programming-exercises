@@ -5,7 +5,7 @@ import Tools.MathT;
 
 import java.util.Scanner;
 
-public class Ex5 {
+public class Ex05 {
 
     static Scanner sc = new Scanner(System.in);
 

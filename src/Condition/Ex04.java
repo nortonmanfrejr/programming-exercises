@@ -5,7 +5,7 @@ import Tools.StrT;
 
 import java.util.Scanner;
 
-public class Ex4 {
+public class Ex04 {
 
     static Scanner sc = new Scanner(System.in);
     static String Word;

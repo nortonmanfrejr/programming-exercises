@@ -6,7 +6,7 @@ import Tools.StrT;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Ex6Ex7 {
+public class Ex06Ex07 {
 
     /*
     * Esse é considerado da lista de condicional, mas foi feito sem nenhuma condição e sim com Arrays.

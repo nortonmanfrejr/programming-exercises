@@ -12,9 +12,7 @@ public class Ex10 {
     //Peça para digitar M-matutino ou V-Vespertino ou N- Noturno.
     //Imprima a mensagem "Bom Dia!", "Boa Tarde!" ou "Boa Noite!" ou , conforme o caso.
     static Scanner sc = new Scanner(System.in);
-    static int Length = 3;
 
-    //
     static Map<String, String> Periodos = new HashMap<>()
     {{
         put("M","Matutino");
